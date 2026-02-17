@@ -1,0 +1,11 @@
+Text,Sentiment
+"I love this product, it is amazing",Positive
+"This is the worst experience ever",Negative
+"Not bad, could be better",Neutral
+"Absolutely fantastic service",Positive
+"I am very disappointed with the quality",Negative
+"It is okay, nothing special",Neutral
+"Great value for money",Positive
+"Terrible, will not recommend",Negative
+"Happy with the purchase",Positive
+"Average experience overall",Neutral
